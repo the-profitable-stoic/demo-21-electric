@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-21-electric.dream-surge.com/sitemap-index.xml

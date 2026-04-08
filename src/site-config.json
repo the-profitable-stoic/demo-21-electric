@@ -1,0 +1,600 @@
+{
+  "business": {
+    "name": "21 Electric",
+    "phone": "+17654446977",
+    "category": "electrical contractor",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Indianapolis Electrical Experts",
+      "heroSubline": "Reliable electrical services for Indianapolis and surrounding areas. From historic homes to new construction, we've got you covered.",
+      "aboutTitle": "Powering Indianapolis Homes and Businesses",
+      "aboutText": [
+        "21 Electric started with a simple mission: provide Indianapolis with dependable and expert electrical services. We're not just electricians; we're your neighbors, dedicated to keeping your homes and businesses safely powered.",
+        "Our approach is straightforward: quality workmanship, transparent pricing, and a commitment to doing the job right the first time. We understand the unique electrical challenges of Indianapolis homes, from the aging wiring in Broad Ripple bungalows to the complex systems in modern Carmel estates.",
+        "We're proud to be part of the Indianapolis community. We actively support local initiatives and believe in giving back to the neighborhoods we serve. When you choose 21 Electric, you're choosing a partner invested in the well-being of our city."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team comprises licensed and insured electricians with years of experience tackling Indianapolis's diverse electrical needs."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide clear, detailed estimates before any work begins."
+        },
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Electrical emergencies don't wait for business hours, and neither do we. We're available around the clock to handle urgent situations."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand the specific electrical challenges posed by Indianapolis's climate and housing styles."
+        }
+      ],
+      "ctaHeadline": "Get a Free Electrical Estimate",
+      "ctaSubline": "Contact us today for reliable electrical solutions in Indianapolis."
+    },
+    "services": [
+      {
+        "slug": "electrical-repair",
+        "name": "Electrical Repair",
+        "shortDescription": "Fast, reliable electrical repair services for Indianapolis homes and businesses.",
+        "description": "From flickering lights to complete power outages, 21 Electric provides comprehensive electrical repair services throughout Indianapolis. We understand the frustration and potential danger of electrical problems, especially during Indiana's harsh winters. Our experienced technicians quickly diagnose the issue and implement effective solutions to restore your power safely and efficiently.\n\nWe handle all types of electrical repairs, including faulty wiring, broken outlets, damaged circuit breakers, and malfunctioning appliances. We also specialize in troubleshooting complex electrical issues in older Indianapolis homes, addressing the unique challenges of outdated wiring systems found in neighborhoods like Broad Ripple and Irvington. Our commitment is to provide long-lasting repairs that meet or exceed all safety standards.\n\nDon't risk your safety with DIY electrical fixes. Call 21 Electric for prompt and professional electrical repair services. We're available 24/7 for emergencies, ensuring you're never left in the dark.",
+        "process": [
+          "Step 1: Schedule a convenient appointment or request emergency service.",
+          "Step 2: Our technician will arrive on time and thoroughly assess the electrical problem.",
+          "Step 3: We'll provide a clear explanation of the issue and a detailed estimate for the repair.",
+          "Step 4: Upon your approval, we'll complete the repair efficiently and safely, ensuring your satisfaction."
+        ],
+        "benefits": [
+          "Quick response times",
+          "Accurate diagnostics",
+          "Safe and reliable repairs",
+          "Upfront pricing"
+        ],
+        "faq": [
+          {
+            "question": "How quickly can you respond to an electrical emergency?",
+            "answer": "We offer 24/7 emergency service and strive to arrive at your location as quickly as possible. Our average response time in Indianapolis is within an hour."
+          },
+          {
+            "question": "Are your electricians licensed and insured?",
+            "answer": "Yes, all our electricians are fully licensed, bonded, and insured to protect your property and provide peace of mind."
+          },
+          {
+            "question": "Do you offer any warranties on your repairs?",
+            "answer": "Yes, we stand behind our workmanship and offer a warranty on all our electrical repairs. Contact us for specific warranty details."
+          }
+        ]
+      },
+      {
+        "slug": "electrical-installation",
+        "name": "Electrical Installation",
+        "shortDescription": "Expert electrical installation services for new construction and renovations in Indianapolis.",
+        "description": "Whether you're building a new home in Fishers or renovating a historic property in Fountain Square, 21 Electric provides expert electrical installation services to meet your needs. We understand the importance of a properly installed electrical system for safety, efficiency, and convenience.\n\nOur team has extensive experience installing wiring, outlets, lighting fixtures, ceiling fans, and other electrical components in residential and commercial properties throughout Indianapolis. We stay up-to-date with the latest electrical codes and technologies to ensure your installation is safe, compliant, and future-proof. We also specialize in smart home installations, helping you integrate cutting-edge technology into your Indianapolis home.\n\nFrom initial design to final inspection, we work closely with you to create an electrical system that meets your specific requirements and budget. Trust 21 Electric for reliable and professional electrical installation services.",
+        "process": [
+          "Step 1: Schedule a consultation to discuss your electrical installation needs.",
+          "Step 2: We'll develop a detailed plan and provide a comprehensive estimate.",
+          "Step 3: Our team will complete the installation efficiently and safely, adhering to all codes and regulations.",
+          "Step 4: We'll conduct a thorough inspection to ensure everything is working properly and provide you with any necessary documentation."
+        ],
+        "benefits": [
+          "Code-compliant installations",
+          "Energy-efficient solutions",
+          "Customized designs",
+          "Professional workmanship"
+        ],
+        "faq": [
+          {
+            "question": "What type of electrical installations do you handle?",
+            "answer": "We handle a wide range of electrical installations, including new wiring, lighting, outlets, ceiling fans, and smart home systems. We cater to both residential and commercial properties."
+          },
+          {
+            "question": "Do you obtain the necessary permits for electrical installations?",
+            "answer": "Yes, we handle all necessary permits and inspections to ensure your electrical installation is fully compliant with local regulations."
+          },
+          {
+            "question": "How long does an electrical installation typically take?",
+            "answer": "The duration of an electrical installation depends on the scope of the project. We'll provide you with an estimated timeline during the consultation phase."
+          }
+        ]
+      },
+      {
+        "slug": "lighting-services",
+        "name": "Lighting Services",
+        "shortDescription": "Enhance your Indianapolis home or business with custom lighting solutions.",
+        "description": "21 Electric offers comprehensive lighting services to transform your Indianapolis home or business. From energy-efficient LED upgrades to custom landscape lighting, we can help you create the perfect ambiance and enhance the functionality of your space.\n\nWe specialize in designing and installing lighting systems that meet your specific needs and preferences. Whether you're looking to brighten up a dark room, highlight architectural features, or create a welcoming outdoor environment, our experienced technicians can bring your vision to life. We also offer lighting repair and maintenance services to keep your system working efficiently.\n\nWe understand the importance of energy-efficient lighting in Indianapolis, especially with rising energy costs. We can help you switch to LED lighting, which can significantly reduce your energy consumption and lower your utility bills. Let 21 Electric illuminate your world with our expert lighting services.",
+        "process": [
+          "Step 1: Schedule a consultation to discuss your lighting goals.",
+          "Step 2: We'll create a custom lighting design that meets your needs and budget.",
+          "Step 3: Our team will install your new lighting system with precision and care.",
+          "Step 4: We'll provide you with instructions on how to operate and maintain your new lighting system."
+        ],
+        "benefits": [
+          "Energy savings",
+          "Enhanced aesthetics",
+          "Increased property value",
+          "Improved safety and security"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of switching to LED lighting?",
+            "answer": "LED lighting offers numerous benefits, including lower energy consumption, longer lifespan, reduced maintenance costs, and improved light quality."
+          },
+          {
+            "question": "Can you help me design a landscape lighting system?",
+            "answer": "Yes, we specialize in designing and installing custom landscape lighting systems that enhance the beauty and security of your property."
+          },
+          {
+            "question": "Do you offer lighting repair services?",
+            "answer": "Yes, we offer comprehensive lighting repair services to fix any issues with your existing lighting system."
+          }
+        ]
+      },
+      {
+        "slug": "panel-upgrades",
+        "name": "Electrical Panel Upgrades",
+        "shortDescription": "Upgrade your electrical panel for increased safety and capacity in Indianapolis.",
+        "description": "Is your electrical panel outdated or overloaded? 21 Electric offers professional electrical panel upgrades to ensure your Indianapolis home or business has the power it needs to operate safely and efficiently. An outdated panel can pose a serious fire hazard and may not be able to handle the demands of modern appliances and electronics.\n\nOur experienced technicians can assess your electrical needs and recommend the appropriate panel upgrade to meet your specific requirements. We'll handle all aspects of the upgrade, including removing the old panel, installing the new panel, and ensuring everything is properly connected and grounded. We understand the importance of safety and compliance and will ensure your panel upgrade meets all local codes and regulations.\n\nDon't wait until your electrical panel fails. Upgrade to a modern, high-capacity panel with 21 Electric and enjoy peace of mind knowing your electrical system is safe and reliable.",
+        "process": [
+          "Step 1: Schedule an inspection to assess your electrical panel needs.",
+          "Step 2: We'll recommend the appropriate panel upgrade and provide a detailed estimate.",
+          "Step 3: Our team will safely remove the old panel and install the new panel.",
+          "Step 4: We'll conduct a thorough inspection to ensure everything is working properly and meets all safety standards."
+        ],
+        "benefits": [
+          "Increased safety",
+          "Improved capacity",
+          "Compliance with codes",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if I need an electrical panel upgrade?",
+            "answer": "Signs that you may need an electrical panel upgrade include frequent tripped breakers, flickering lights, and difficulty running multiple appliances simultaneously."
+          },
+          {
+            "question": "How long does an electrical panel upgrade take?",
+            "answer": "An electrical panel upgrade typically takes one day to complete."
+          },
+          {
+            "question": "Do I need to be home during the electrical panel upgrade?",
+            "answer": "Yes, you will need to be home during the electrical panel upgrade to allow us access to your electrical panel."
+          }
+        ]
+      },
+      {
+        "slug": "generator-installation",
+        "name": "Generator Installation",
+        "shortDescription": "Protect your Indianapolis home from power outages with a reliable generator.",
+        "description": "Indianapolis is no stranger to severe weather, and power outages can occur at any time. 21 Electric offers professional generator installation services to keep your home powered during emergencies. A generator can provide backup power for essential appliances, lighting, and heating/cooling systems, ensuring your comfort and safety during a power outage.\n\nWe offer a variety of generator options to meet your specific needs and budget, including portable generators, standby generators, and whole-house generators. Our experienced technicians can assess your power requirements and recommend the appropriate generator for your home. We'll handle all aspects of the installation, including connecting the generator to your electrical system and ensuring it's properly vented and grounded.\n\nDon't be caught in the dark during the next power outage. Contact 21 Electric for reliable generator installation services.",
+        "process": [
+          "Step 1: Schedule a consultation to discuss your generator needs.",
+          "Step 2: We'll recommend the appropriate generator and provide a detailed estimate.",
+          "Step 3: Our team will install the generator according to all codes and regulations.",
+          "Step 4: We'll provide you with instructions on how to operate and maintain your generator."
+        ],
+        "benefits": [
+          "Backup power during outages",
+          "Protection for essential appliances",
+          "Increased home value",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What size generator do I need for my home?",
+            "answer": "The size of generator you need depends on your power requirements. We can assess your needs and recommend the appropriate size generator during a consultation."
+          },
+          {
+            "question": "Do I need a permit for generator installation?",
+            "answer": "Yes, a permit is typically required for generator installation. We'll handle the permit process for you."
+          },
+          {
+            "question": "How often should I maintain my generator?",
+            "answer": "We recommend that you have your generator serviced annually to ensure it's in good working condition."
+          }
+        ]
+      },
+      {
+        "slug": "home-automation",
+        "name": "Home Automation",
+        "shortDescription": "Transform your Indianapolis home with smart home automation solutions.",
+        "description": "21 Electric brings cutting-edge home automation solutions to Indianapolis homeowners. Control your lights, thermostat, security system, and more from your smartphone or tablet. Experience the convenience and energy savings of a smart home.\n\nOur experienced technicians can design and install a custom home automation system that meets your specific needs and preferences. We work with leading brands to provide reliable and user-friendly solutions. Whether you're looking to automate your lighting, control your thermostat remotely, or enhance your home security, we can help you create a smart home that simplifies your life.\n\nFrom smart lighting to automated shades, we can integrate a wide range of devices into your home automation system. We'll provide you with training on how to use your new system and provide ongoing support to ensure your satisfaction. Upgrade your Indianapolis home with smart home automation from 21 Electric.",
+        "process": [
+          "Step 1: Schedule a consultation to discuss your home automation goals.",
+          "Step 2: We'll design a custom home automation system that meets your needs and budget.",
+          "Step 3: Our team will install the system with precision and care.",
+          "Step 4: We'll provide you with training and ongoing support."
+        ],
+        "benefits": [
+          "Convenience",
+          "Energy savings",
+          "Enhanced security",
+          "Increased home value"
+        ],
+        "faq": [
+          {
+            "question": "What devices can be integrated into a home automation system?",
+            "answer": "A wide range of devices can be integrated into a home automation system, including lights, thermostats, security systems, appliances, and entertainment systems."
+          },
+          {
+            "question": "How much does a home automation system cost?",
+            "answer": "The cost of a home automation system depends on the scope of the project and the devices you choose to integrate. We'll provide you with a detailed estimate during the consultation phase."
+          },
+          {
+            "question": "Is home automation difficult to use?",
+            "answer": "No, modern home automation systems are designed to be user-friendly. We'll provide you with training and ongoing support to ensure you can easily control your system."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-electrical",
+        "name": "Commercial Electrical Services",
+        "shortDescription": "Expert commercial electrical services for Indianapolis businesses.",
+        "description": "21 Electric understands the unique electrical needs of Indianapolis businesses. We provide a full range of commercial electrical services, from new construction wiring to routine maintenance and repairs. We minimize downtime and ensure your business operates smoothly with our reliable service.\n\nWe handle everything from lighting upgrades and panel installations to complex wiring projects and emergency repairs. Our team is experienced in working with various commercial properties, including offices, retail spaces, restaurants, and industrial facilities. We prioritize safety and efficiency in every project we undertake, adhering to all local codes and regulations.\n\nKeep your business powered and compliant with 21 Electric's expert commercial electrical services. We offer competitive pricing and flexible scheduling to meet your business needs. Contact us today for a free consultation.",
+        "process": [
+          "Step 1: Schedule a consultation to assess your commercial electrical needs.",
+          "Step 2: We'll develop a detailed plan and provide a comprehensive estimate.",
+          "Step 3: Our team will complete the work efficiently and safely, minimizing disruption to your business.",
+          "Step 4: We'll conduct a thorough inspection to ensure everything is working properly and meets all safety standards."
+        ],
+        "benefits": [
+          "Reduced downtime",
+          "Improved safety",
+          "Code compliance",
+          "Energy efficiency"
+        ],
+        "faq": [
+          {
+            "question": "Do you offer emergency commercial electrical services?",
+            "answer": "Yes, we offer 24/7 emergency commercial electrical services to address urgent issues and minimize downtime for your business."
+          },
+          {
+            "question": "Are your electricians certified for commercial work?",
+            "answer": "Yes, all our electricians are fully licensed and certified to perform commercial electrical work in Indianapolis."
+          },
+          {
+            "question": "Can you handle large-scale commercial electrical projects?",
+            "answer": "Yes, we have the experience and resources to handle large-scale commercial electrical projects, including new construction and renovations."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Carmel",
+        "slug": "carmel-in",
+        "state": "IN",
+        "content": "21 Electric is proud to provide comprehensive electrical services to the residents and businesses of Carmel, Indiana. Known for its upscale neighborhoods and meticulously planned developments from the 1980s through the 2000s, Carmel offers a unique blend of suburban comfort and modern amenities. We understand the specific electrical needs of homes in this area, from updating outdated systems to installing energy-efficient lighting and smart home technology.\n\nOur experienced electricians are equipped to handle any electrical project, big or small. We specialize in troubleshooting electrical issues common in older homes, ensuring the safety and reliability of your electrical system. With Carmel's cold winters, we also offer services to prepare your home for harsh weather, including generator installation and maintenance to ensure your family stays safe and comfortable during power outages. We are dedicated to providing prompt, professional, and reliable electrical services to the Carmel community.",
+        "localContext": "Carmel, IN, is characterized by its upscale residential areas and a strong focus on community development, resulting in a high demand for modern and efficient electrical solutions.",
+        "nearbyAreas": [
+          "Fishers",
+          "Westfield",
+          "Zionsville"
+        ]
+      },
+      {
+        "city": "Fishers",
+        "slug": "fishers-in",
+        "state": "IN",
+        "content": "21 Electric is committed to serving the rapidly growing community of Fishers, Indiana. With its many newer planned communities built from the 1990s to the present, Fishers boasts a diverse range of homes and businesses that require reliable and modern electrical services. We are familiar with the unique electrical needs of these newer constructions, including wiring for smart home systems, energy-efficient lighting, and advanced electrical panels.\n\nOur team of licensed electricians provides a full spectrum of services, from routine maintenance and repairs to complex installations and upgrades. We understand the importance of safety and efficiency, and we are dedicated to providing top-quality workmanship and exceptional customer service. With Fishers' cold winters, we provide services such as generator installation and maintenance to ensure your home remains powered during winter storms. We're here to keep your home or business powered safely and efficiently.",
+        "localContext": "Fishers, IN, is known for its modern planned communities and a focus on family-friendly amenities, creating a high demand for innovative and reliable electrical solutions.",
+        "nearbyAreas": [
+          "Carmel",
+          "Noblesville",
+          "McCordsville"
+        ]
+      },
+      {
+        "city": "Noblesville",
+        "slug": "noblesville-in",
+        "state": "IN",
+        "content": "21 Electric offers expert electrical services to the historic city of Noblesville, Indiana. With its charming Courthouse Square area and a mix of older and newer homes, Noblesville presents unique electrical challenges and opportunities. We specialize in working with older homes, preserving their historic character while bringing their electrical systems up to modern safety standards.\n\nOur team of experienced electricians is skilled in troubleshooting electrical issues common in older homes, such as outdated wiring, knob-and-tube systems, and insufficient electrical capacity. We also provide a full range of services for newer homes, including energy-efficient lighting, smart home integration, and electrical panel upgrades. During the cold Noblesville winters, we ensure your home is safe and comfortable with services such as generator installation and maintenance. We are committed to providing reliable, professional, and affordable electrical services to the Noblesville community.",
+        "localContext": "Noblesville, IN, presents a blend of historic charm and modern living, requiring specialized electrical services for both older and newer homes.",
+        "nearbyAreas": [
+          "Fishers",
+          "Carmel",
+          "Cicero"
+        ]
+      },
+      {
+        "city": "Zionsville",
+        "slug": "zionsville-in",
+        "state": "IN",
+        "content": "21 Electric proudly serves the residents and businesses of Zionsville, Indiana with top-notch electrical services. Known for its village-like atmosphere and distinctive architecture, Zionsville demands an electrical contractor that appreciates and understands the unique needs of its community. We are adept at working with both historic homes and modern constructions, ensuring all electrical work complements the town's aesthetic and meets the highest safety standards.\n\nOur skilled electricians offer a comprehensive range of services, from routine maintenance and repairs to complex installations and upgrades. We specialize in energy-efficient solutions to help Zionsville residents reduce their carbon footprint and lower their energy bills. We also offer emergency services to address urgent electrical issues promptly and effectively. We take pride in being a trusted partner for Zionsville homeowners and business owners.",
+        "localContext": "Zionsville, IN, known for its charming village atmosphere, benefits from electrical services that respect its architectural heritage and prioritize energy efficiency.",
+        "nearbyAreas": [
+          "Whitestown",
+          "Lebanon",
+          "Carmel"
+        ]
+      },
+      {
+        "city": "Westfield",
+        "slug": "westfield-in",
+        "state": "IN",
+        "content": "21 Electric is dedicated to providing reliable and efficient electrical services to the growing community of Westfield, Indiana. As one of the fastest-growing cities in Indiana, Westfield features a mix of established neighborhoods and new developments, each with unique electrical needs. We are experienced in working with both residential and commercial properties, ensuring all electrical systems are safe, up-to-code, and optimized for performance.\n\nOur team of licensed electricians is equipped to handle any electrical project, big or small. We offer a full range of services, including wiring for new construction, electrical panel upgrades, lighting installations, and troubleshooting electrical issues. We understand the importance of timely and professional service, and we strive to exceed our customers' expectations on every job. Count on 21 Electric to keep your Westfield home or business powered safely and efficiently.",
+        "localContext": "Westfield, IN, with its rapid growth and diverse housing options, needs an electrical contractor capable of handling a wide range of projects and prioritizing customer satisfaction.",
+        "nearbyAreas": [
+          "Carmel",
+          "Sheridan",
+          "Zionsville"
+        ]
+      },
+      {
+        "city": "McCordsville",
+        "slug": "mccordsville-in",
+        "state": "IN",
+        "content": "21 Electric is your trusted provider of electrical services in McCordsville, Indiana. As a growing suburban community, McCordsville features a mix of residential neighborhoods and commercial developments, each with distinct electrical requirements. We are committed to delivering top-quality workmanship and exceptional customer service to all McCordsville residents and businesses.\n\nOur experienced electricians offer a comprehensive range of services, from routine maintenance and repairs to complex installations and upgrades. We specialize in energy-efficient solutions to help McCordsville residents save money on their energy bills. We also offer 24/7 emergency services to address urgent electrical issues promptly and effectively. We take pride in being a reliable partner for the McCordsville community, keeping homes and businesses powered safely and efficiently.",
+        "localContext": "McCordsville, IN, a growing community with diverse electrical needs, benefits from reliable and responsive electrical services that prioritize customer satisfaction and energy efficiency.",
+        "nearbyAreas": [
+          "Fishers",
+          "Fortville",
+          "Lawrence"
+        ]
+      },
+      {
+        "city": "Lawrence",
+        "slug": "lawrence-in",
+        "state": "IN",
+        "content": "21 Electric is proud to offer superior electrical services to the residents and businesses of Lawrence, Indiana. With a diverse mix of housing styles and commercial properties, Lawrence demands an electrical contractor that is knowledgeable and adaptable. We are committed to providing prompt, reliable, and affordable electrical solutions to the Lawrence community.\n\nOur team of licensed electricians is equipped to handle any electrical project, big or small. We offer a full range of services, including electrical panel upgrades, lighting installations, wiring for new construction, and troubleshooting electrical issues. We understand the importance of safety and compliance, and we ensure all our work meets or exceeds industry standards. Count on 21 Electric to keep your Lawrence home or business powered safely and efficiently.",
+        "localContext": "Lawrence, IN, with its diverse mix of residential and commercial properties, benefits from an electrical contractor that is responsive, reliable, and committed to safety.",
+        "nearbyAreas": [
+          "Indianapolis",
+          "McCordsville",
+          "Fishers"
+        ]
+      },
+      {
+        "city": "Whitestown",
+        "slug": "whitestown-in",
+        "state": "IN",
+        "content": "21 Electric is committed to serving the rapidly growing community of Whitestown, Indiana with professional and dependable electrical services. Whitestown features a mix of new residential developments and expanding commercial areas, creating a demand for experienced electrical contractors. We are dedicated to providing top-quality workmanship and exceptional customer service to all Whitestown residents and businesses.\n\nOur team of licensed electricians offers a comprehensive range of services, from routine maintenance and repairs to complex installations and upgrades. We specialize in energy-efficient solutions to help Whitestown residents save money on their energy bills. We also offer 24/7 emergency services to address urgent electrical issues promptly and effectively. Trust 21 Electric to keep your Whitestown home or business powered safely and reliably.",
+        "localContext": "Whitestown, IN, with its rapid growth and expanding commercial sector, relies on experienced electrical contractors to ensure safety, efficiency, and compliance.",
+        "nearbyAreas": [
+          "Zionsville",
+          "Lebanon",
+          "Brownsburg"
+        ]
+      },
+      {
+        "city": "Brownsburg",
+        "slug": "brownsburg-in",
+        "state": "IN",
+        "content": "21 Electric proudly serves the Brownsburg, Indiana community, providing top-notch electrical services to homes and businesses alike. Brownsburg's blend of established neighborhoods and new constructions requires an electrical contractor with broad expertise. We are dedicated to offering reliable, efficient, and affordable solutions to meet the diverse electrical needs of Brownsburg residents.\n\nOur licensed electricians handle a wide array of services, from routine maintenance and repairs to comprehensive installations and upgrades. We specialize in energy-efficient solutions designed to reduce energy consumption and lower utility bills for Brownsburg homeowners. We also offer emergency services to address urgent electrical issues promptly and effectively. Count on 21 Electric to keep your Brownsburg property powered safely and efficiently.",
+        "localContext": "Brownsburg, IN, with its mix of traditional and modern homes, benefits from an electrical contractor that offers a comprehensive range of services and prioritizes customer satisfaction.",
+        "nearbyAreas": [
+          "Avon",
+          "Plainfield",
+          "Lizton"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Electrical Panel Upgrade",
+        "text": "21 Electric did a fantastic job upgrading our electrical panel. Our old panel was outdated and couldn't handle our modern appliances. The technicians were professional, efficient, and explained everything clearly. Now we have peace of mind knowing our electrical system is safe and reliable. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "John K.",
+        "rating": 4,
+        "service": "Lighting Installation",
+        "text": "We hired 21 Electric to install new recessed lighting in our kitchen. They did a great job, and the new lighting has completely transformed the space. There was a small delay due to a parts shortage, but they communicated the issue effectively and kept us informed throughout the process. Overall, a positive experience.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Emily R.",
+        "rating": 5,
+        "service": "Electrical Repair",
+        "text": "I had an electrical emergency late at night, and 21 Electric responded quickly and professionally. The technician arrived within an hour and quickly diagnosed and fixed the problem. I was impressed with their promptness and expertise. I will definitely use them again in the future.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Generator Installation",
+        "text": "21 Electric installed a whole-house generator for us, and we couldn't be happier. They helped us choose the right generator for our needs and handled the entire installation process seamlessly. Now we have peace of mind knowing we'll have power during the next outage. Great service!",
+        "date": "2024-12-20"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Home Automation",
+        "text": "We had 21 Electric install a smart home system, and it's been a game-changer. We can now control our lights, thermostat, and security system from our phones. The installation process was smooth, and the technicians were very helpful in explaining how to use the system. The only downside is it was a bit pricier than we initially anticipated, but definitely worth it for the convenience.",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "Brian S.",
+        "rating": 5,
+        "service": "Commercial Electrical Services",
+        "text": "21 Electric has been our go-to electrician for our business for years. They are always reliable, professional, and provide excellent service. Recently, they helped us upgrade our lighting system to LED, which has significantly reduced our energy costs. Highly recommend them for any commercial electrical needs.",
+        "date": "2024-10-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "21 Electric | Indianapolis Electrician",
+        "description": "Reliable electrical services in Indianapolis, IN. Expert repairs, installations, panel upgrades, and more. Call today!"
+      },
+      "about": {
+        "title": "About 21 Electric | Indianapolis, IN",
+        "description": "Learn about 21 Electric, a trusted Indianapolis electrician. Dedicated to quality workmanship and customer satisfaction."
+      },
+      "services": {
+        "title": "Electrical Services | 21 Electric",
+        "description": "Comprehensive electrical services in Indianapolis. Repairs, installations, lighting, panels, generators, and home automation."
+      },
+      "contact": {
+        "title": "Contact 21 Electric | Indianapolis, IN",
+        "description": "Contact 21 Electric for all your electrical needs in Indianapolis. Get a free estimate today!"
+      },
+      "reviews": {
+        "title": "21 Electric Reviews | Indianapolis, IN",
+        "description": "Read reviews for 21 Electric, a top-rated electrician in Indianapolis. See what our customers are saying!"
+      },
+      "service-areas": {
+        "title": "Service Areas | 21 Electric",
+        "description": "21 Electric provides electrical services to Indianapolis, Carmel, Fishers, Noblesville and surrounding areas."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "electrical-repair": "/images/service-electrical-repair.webp",
+      "electrical-installation": "/images/service-electrical-installation.webp",
+      "lighting-services": "/images/service-lighting-services.webp",
+      "panel-upgrades": "/images/service-panel-upgrades.webp",
+      "generator-installation": "/images/service-generator-installation.webp",
+      "home-automation": "/images/service-home-automation.webp",
+      "commercial-electrical": "/images/service-commercial-electrical.webp"
+    },
+    "servicesResponsive": {
+      "electrical-repair": {
+        "src": "/images/service-electrical-repair.webp",
+        "srcset": "/images/service-electrical-repair-400w.webp 400w, /images/service-electrical-repair-800w.webp 800w, /images/service-electrical-repair-1200w.webp 1200w, /images/service-electrical-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "electrical-installation": {
+        "src": "/images/service-electrical-installation.webp",
+        "srcset": "/images/service-electrical-installation-400w.webp 400w, /images/service-electrical-installation-800w.webp 800w, /images/service-electrical-installation-1200w.webp 1200w, /images/service-electrical-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "lighting-services": {
+        "src": "/images/service-lighting-services.webp",
+        "srcset": "/images/service-lighting-services-400w.webp 400w, /images/service-lighting-services-800w.webp 800w, /images/service-lighting-services-1200w.webp 1200w, /images/service-lighting-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "panel-upgrades": {
+        "src": "/images/service-panel-upgrades.webp",
+        "srcset": "/images/service-panel-upgrades-400w.webp 400w, /images/service-panel-upgrades-800w.webp 800w, /images/service-panel-upgrades-1200w.webp 1200w, /images/service-panel-upgrades.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "generator-installation": {
+        "src": "/images/service-generator-installation.webp",
+        "srcset": "/images/service-generator-installation-400w.webp 400w, /images/service-generator-installation-800w.webp 800w, /images/service-generator-installation-1200w.webp 1200w, /images/service-generator-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "home-automation": {
+        "src": "/images/service-home-automation.webp",
+        "srcset": "/images/service-home-automation-400w.webp 400w, /images/service-home-automation-800w.webp 800w, /images/service-home-automation-1200w.webp 1200w, /images/service-home-automation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-electrical": {
+        "src": "/images/service-commercial-electrical.webp",
+        "srcset": "/images/service-commercial-electrical-400w.webp 400w, /images/service-commercial-electrical-800w.webp 800w, /images/service-commercial-electrical-1200w.webp 1200w, /images/service-commercial-electrical.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
